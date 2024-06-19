@@ -57,7 +57,7 @@ The IITB-RISC-23 supports 14 instructions divided into three formats: R, I, and 
 ## Project Group
 
 This project is to be completed by a group of four students.
-- 'Jay Mehta'
-- 'Jainam Ravani'
-- 'Kshitij Vaidya'
-- 'Adit Srivastava'
+- Jay Mehta
+- Jainam Ravani
+- Kshitij Vaidya
+- Adit Srivastava
